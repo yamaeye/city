@@ -13,8 +13,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-# url: https://yamaeye.pages.dev/city/public/
-url: https://115000.pages.dev/
+url: https://yamaeye.pages.dev/city/public/
+# url: https://115000.pages.dev/
 # url: https://yamaeye.github.io/city/public/
 # url: https://city.sophie-eden.ltd/
 permalink: :year/:month/:day/:category/:title/
