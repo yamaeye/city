@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "906285577c07d79b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12abc6715a31e44a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a63695ec40b0b1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d02eec433395ca65",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08d2ffa176d9ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0aa02ece905948",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15f2bed8f3f561ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "img",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "426bf9e2ad58659d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "34e06eb407efda5a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b168cde71a889e24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62649b69f7c89740",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2da6d67c737ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32383274d6ada912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b0822ff0b134f69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99abb4148c45cdbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43cf54d15004ac8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas"
+              }
+            }
+          },
+          {
+            "id": "29bebb1e5ab68dd8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfb6eacb3fba4d75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "96531acee975198b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "15f2bed8f3f561ad",
+  "lastOpenFiles": [
+    "_posts/2022.12.10.东南亚大海啸.md",
+    "未命名.canvas",
+    "_posts/2022.06.05.伦敦出租车司机.md",
+    "_posts/2022.12.04.公开课.md",
+    "_posts/2022.12.05.教育.md",
+    "_posts/2022.11.17.论文.md",
+    "_posts/2023.11.18.近采近销近创+直播工厂.md",
+    "_posts/2023.10.20.中国连续5月减持美债.md",
+    "_posts/2023.09.29.南平.md",
+    "_posts/2022.11.09.电子书.md",
+    "_posts/2023.05.14.考试.md",
+    "_posts/2022.12.05.展馆.md",
+    "nav/index.md",
+    "_posts/2023.04.27.软件博客.md",
+    "_posts/2023.05.13.留学.md",
+    "2023/05/14/导航/学习/考试.md",
+    "2023/05/14/导航/学习",
+    "2023/05/14/导航",
+    "2023/05/14",
+    "2023/05",
+    "2023",
+    "_posts/2023.05.14.电视频道.md",
+    "2023/05/14/导航/关注/社区.md",
+    "2023/05/14/导航/关注",
+    "tags/index.md",
+    "hot/index.md",
+    "info/index.md",
+    "_posts/2023.08.25.金砖国家扩员有怎样的意义？.md",
+    "topic/index.md",
+    "2023/08/25/热点/国际/中国连续5月减持美债.md",
+    "2023/08/25/热点/国际",
+    "2023/08/25/热点",
+    "2023/08/25",
+    "2023/08",
+    "_posts/2022.11.26.西游记：狮驼岭.md",
+    "categories/index.md",
+    "img/setting/index_img.jpg",
+    "img/setting/footer_bg.jpg",
+    "img/setting/cover9.jpg",
+    "img/setting/cover8.jpg",
+    "img/setting/cover7.jpg",
+    "img/setting/cover6.jpg",
+    "img/setting/cover5.jpg",
+    "img/setting/cover4.jpg",
+    "img/setting/cover3.jpg",
+    "img/setting/cover2.jpg"
+  ]
+}
