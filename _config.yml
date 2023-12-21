@@ -110,6 +110,7 @@ deploy:
   branch: master 
 
 algolia:
-  applicationID: 'LJG9R0BZPG'
+#   applicationID: 'LJG9R0BZPG'
+  appID: 'LJG9R0BZPG'
   apiKey: 'ba97772b5e933ea8b42cc6caf5d76cfb'
   indexName: 'city'
