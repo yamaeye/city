@@ -109,8 +109,14 @@ deploy:
   repo: https://github.com/yamaeye/city.git  
   branch: master 
 
-algolia:
+search:
+  path: search.xml
+  field: all
+  content: true
+  format: html
+
 #   applicationID: 'LJG9R0BZPG'
-  appID: 'LJG9R0BZPG'
-  apiKey: 'ba97772b5e933ea8b42cc6caf5d76cfb'
-  indexName: 'city'
+#   algolia:
+#     applicationID: 'LJG9R0BZPG'
+#     apiKey: 'ba97772b5e933ea8b42cc6caf5d76cfb'
+#     indexName: 'city'

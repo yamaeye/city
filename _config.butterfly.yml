@@ -66,14 +66,15 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
 
 # Local search
 local_search:
-  enable: false
-  preload: false
+  enable: true
+  preload: true
+  unescape: true
   CDN:
 
 # Math (數學)
