@@ -81,12 +81,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62649b69f7c89740",
@@ -195,7 +195,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "15f2bed8f3f561ad",
+  "active": "06e69aa3c87db668",
   "lastOpenFiles": [
     "_posts/2023.11.18.近采近销近创+直播工厂.md",
     "_posts/2024.01.24.对社会失望怎么办.md",
