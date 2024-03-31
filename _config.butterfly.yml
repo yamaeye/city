@@ -54,7 +54,7 @@ copy:
 #   icon: link || the description
 social:
   # fab fa-github: https://github.com/xxxxx || Github
-  fas fa-book: https://yamaeye.github.io/docs/#/ || wiki
+  fas fa-book: http://wiki.sophie-eden.ltd/ || wiki
   fas fa-newspaper: http://times.sophie-eden.ltd/ || 摘录
   fas fa-images: https://sophie-eden.pages.dev/ || 剪辑
   fas fa-radio: https://music.163.com/#/user/home?id=29382116 || 音乐

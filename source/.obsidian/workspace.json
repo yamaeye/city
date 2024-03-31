@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022.10.23.笑.md",
+                "file": "_posts/2024.03.31.Aaron-Bushnell.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "img",
+                "query": "/img/post/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62649b69f7c89740",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022.10.23.笑.md",
+                "file": "_posts/2024.03.31.Aaron-Bushnell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022.10.23.笑.md",
+                "file": "_posts/2024.03.31.Aaron-Bushnell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022.10.23.笑.md"
+                "file": "_posts/2024.03.31.Aaron-Bushnell.md"
               }
             }
           },
@@ -196,6 +197,17 @@
   },
   "active": "ae5086489a7761b1",
   "lastOpenFiles": [
+    "_posts/2023.09.28.福州.md",
+    "_posts/2023.09.11.上学路上的城市光影.md",
+    "_posts/2023.10.09.福州美食.md",
+    "_posts/2023.11.18.近采近销近创+直播工厂.md",
+    "_posts/2023.10.20.中国连续5月减持美债.md",
+    "_posts/2024.03.31.Aaron-Bushnell.md",
+    "_posts/2022.09.20.“羊了个羊”突然爆火.md",
+    "img/post/Aaron-Bushnell.jpg",
+    "_posts/2024.01.24.对社会失望怎么办.md",
+    "_posts/2022.07.25.南京“夏日祭”活动.md",
+    "_posts/2022.10.23.笑.md",
     "_posts/2022.11.18.正能量.md",
     "_posts/2023.05.14.考试.md",
     "_posts/2023.05.13.留学.md",
@@ -203,7 +215,6 @@
     "_posts/2022.12.04.公开课.md",
     "_posts/2022.11.24.工具箱.md",
     "_posts/2022.11.23.古文学.md",
-    "_posts/2022.10.23.笑.md",
     "_posts/2022.11.23.词典.md",
     "_posts/2022.11.20.影视.md",
     "_posts/2022.11.19.资讯.md",
@@ -213,15 +224,6 @@
     "_posts/2022.11.09.知识.md",
     "_posts/2022.11.09.电子书.md",
     "_posts/2022.11.09.软件安装包.md",
-    "_posts/2022.10.13.字幕.md",
-    "_posts/2022.10.04.廖雪峰.md",
-    "_posts/2023.05.14.电视频道.md",
-    "_posts/2022.12.05.展馆.md",
-    "_posts/2022.10.12.IP.md",
-    "_posts/2022.10.04.CSS.md",
-    "_posts/2022.10.04.CDN.md",
-    "_posts/2022.10.04.软件说明书.md",
-    "_posts/2022.09.20.“羊了个羊”突然爆火.md",
     "未命名.canvas",
     "2023/05/14/导航/学习",
     "2023/05/14/导航",
@@ -241,7 +243,6 @@
     "img/setting/cover6.jpg",
     "img/setting/cover5.jpg",
     "img/setting/cover4.jpg",
-    "img/setting/cover3.jpg",
-    "img/setting/cover2.jpg"
+    "img/setting/cover3.jpg"
   ]
 }
