@@ -29,6 +29,7 @@ description:
 ## [IT](/categories/导航/IT)
 
 - [开发](/2024/10/06/导航/IT/开发/)
+- [AI](/2024/10/06/导航/IT/AI/)
 - [Tracker](/2024/10/06/导航/IT/Tracker/)
 
 ## [文艺](/categories/导航/文艺/)
