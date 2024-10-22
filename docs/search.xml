@@ -1478,6 +1478,15 @@
               <div class="flink-item-name">通义千问</div> 
               <div class="flink-item-desc" title="阿里云自主研发的大语言模型">阿里云自主研发的大语言模型</div>
             </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://chatglm.cn/main/alltoolsdetail?lang=zh" title="智谱清言" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://chatglm.cn/img/icons/apple-touch-icon-152x152.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="智谱清言" />
+              </div>
+              <div class="flink-item-name">智谱清言</div> 
+              <div class="flink-item-desc" title="智谱AI公司开发的人工智能助手ChatGLM">智谱AI公司开发的人工智能助手ChatGLM</div>
+            </a>
           </div></div><div class="flink-name">导航</div> <div class="flink-list">
           <div class="flink-list-item">
             <a href="https://ai-nav.net/" title="AI导航站" target="_blank">
@@ -3007,21 +3016,39 @@
     <url>/2024/10/18/%E5%AF%BC%E8%88%AA/%E8%B5%84%E6%BA%90/%E5%AE%89%E8%A3%85%E5%8C%85/</url>
     <content><![CDATA[<div class="flink"><div class="flink-name">效率</div> <div class="flink-list">
           <div class="flink-list-item">
-            <a href="https://pixpinapp.com/" title="PixPin" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://pixpinapp.com/logo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="PixPin" />
-              </div>
-              <div class="flink-item-name">PixPin</div> 
-              <div class="flink-item-desc" title="截图/贴图工具">截图/贴图工具</div>
-            </a>
-          </div>
-          <div class="flink-list-item">
             <a href="https://getquicker.net/Download" title="Quicker" target="_blank">
               <div class="flink-item-icon">
                 <img class="no-lightbox" src="https://getquicker.net/quicker_round.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Quicker" />
               </div>
               <div class="flink-item-name">Quicker</div> 
               <div class="flink-item-desc" title="指尖工具箱">指尖工具箱</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://u.tools/download/" title="uTools" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://res.u-tools.cn/website5/static/assets/logo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="uTools" />
+              </div>
+              <div class="flink-item-name">uTools</div> 
+              <div class="flink-item-desc" title="个人效率助理">个人效率助理</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://github.com/microsoft/PowerToys/releases" title="PowerToys" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://learn.microsoft.com/windows/images/windows11.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="PowerToys" />
+              </div>
+              <div class="flink-item-name">PowerToys</div> 
+              <div class="flink-item-desc" title="一组实用工具">一组实用工具</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://pixpinapp.com/" title="PixPin" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://pixpinapp.com/logo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="PixPin" />
+              </div>
+              <div class="flink-item-name">PixPin</div> 
+              <div class="flink-item-desc" title="截图/贴图工具">截图/贴图工具</div>
             </a>
           </div>
           <div class="flink-list-item">
@@ -3034,12 +3061,12 @@
             </a>
           </div>
           <div class="flink-list-item">
-            <a href="https://github.com/microsoft/PowerToys/releases" title="PowerToys" target="_blank">
+            <a href="https://www.nurgo-software.com/pricing/aquasnap" title="AquaSnap" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://learn.microsoft.com/windows/images/windows11.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="PowerToys" />
+                <img class="no-lightbox" src="https://www.nurgo-software.com/apple-touch-icon.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="AquaSnap" />
               </div>
-              <div class="flink-item-name">PowerToys</div> 
-              <div class="flink-item-desc" title="一组实用工具">一组实用工具</div>
+              <div class="flink-item-name">AquaSnap</div> 
+              <div class="flink-item-desc" title="tiling window manager">tiling window manager</div>
             </a>
           </div></div><div class="flink-name">资源管理</div> <div class="flink-list">
           <div class="flink-list-item">
@@ -3052,6 +3079,15 @@
             </a>
           </div>
           <div class="flink-list-item">
+            <a href="https://7-zip.org/" title="7-Zip" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://7-zip.org/7ziplogo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="7-Zip" />
+              </div>
+              <div class="flink-item-name">7-Zip</div> 
+              <div class="flink-item-desc" title="a file archiver with a high compression ratio.">a file archiver with a high compression ratio.</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
             <a href="https://www.verysync.com/" title="微力同步" target="_blank">
               <div class="flink-item-icon">
                 <img class="no-lightbox" src="https://www.verysync.com/static/images/sync-job.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="微力同步" />
@@ -3061,9 +3097,18 @@
             </a>
           </div>
           <div class="flink-list-item">
+            <a href="https://www.jianguoyun.com/s/downloads" title="坚果云" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://www.jianguoyun.com/static/images/logo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="坚果云" />
+              </div>
+              <div class="flink-item-name">坚果云</div> 
+              <div class="flink-item-desc" title="网盘下载|云盘下载|免费网盘云盘试用">网盘下载|云盘下载|免费网盘云盘试用</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
             <a href="https://geekuninstaller.com/download" title="Geek Uninstaller" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://www.verysync.com/static/images/sync-job.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Geek Uninstaller" />
+                <img class="no-lightbox" src="https://geekuninstaller.com/favicon.ico" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Geek Uninstaller" />
               </div>
               <div class="flink-item-name">Geek Uninstaller</div> 
               <div class="flink-item-desc" title="软件彻底卸载工具">软件彻底卸载工具</div>
@@ -3086,7 +3131,88 @@
               <div class="flink-item-name">Emeditor</div> 
               <div class="flink-item-desc" title="最快的 Windows 文本编辑器">最快的 Windows 文本编辑器</div>
             </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://obsidian.md/" title="Obsidian" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://obsidian.md/images/obsidian-logo-gradient.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Obsidian" />
+              </div>
+              <div class="flink-item-name">Obsidian</div> 
+              <div class="flink-item-desc" title="Sharpen your thinking">Sharpen your thinking</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://file-converter.io/" title="File Converter" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://file-converter.io/images/application-icon.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="File Converter" />
+              </div>
+              <div class="flink-item-name">File Converter</div> 
+              <div class="flink-item-desc" title="Convert & compress everything in 2 clicks">Convert & compress everything in 2 clicks</div>
+            </a>
+          </div></div><div class="flink-name">下载</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.neatdownloadmanager.com/index.php/en/" title="Neat Download Manager" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Neat Download Manager" />
+              </div>
+              <div class="flink-item-name">Neat Download Manager</div> 
+              <div class="flink-item-desc" title="Free Internet Download Manager Mac & Windows">Free Internet Download Manager Mac & Windows</div>
+            </a>
+          </div></div><div class="flink-name">媒体</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://potplayer.daum.net/?lang=zh_CN" title="Potplayer" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://m1.daumcdn.net/icon/w/c/13/11/42095036704489703.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Potplayer" />
+              </div>
+              <div class="flink-item-name">Potplayer</div> 
+              <div class="flink-item-desc" title="multimedia player">multimedia player</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.screentogif.com/" title="ScreenToGif" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://www.screentogif.com/img/logo.d2151712.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="ScreenToGif" />
+              </div>
+              <div class="flink-item-name">ScreenToGif</div> 
+              <div class="flink-item-desc" title="Screen webcam and sketchboard recorder with an integrated editor">Screen webcam and sketchboard recorder with an integrated editor</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://listen1.github.io/listen1/" title="Listen 1" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://avatars.githubusercontent.com/u/18599108?v=4&size=40" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Listen 1" />
+              </div>
+              <div class="flink-item-name">Listen 1</div> 
+              <div class="flink-item-desc" title="音乐播放器">音乐播放器</div>
+            </a>
+          </div></div><div class="flink-name">通讯</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://weixin.qq.com/" title="微信" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="微信" />
+              </div>
+              <div class="flink-item-name">微信</div> 
+              <div class="flink-item-desc" title="一个生活方式">一个生活方式</div>
+            </a>
           </div></div><div class="flink-name">工具</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.todesk.com/download.html" title="ToDesk远程桌面软件" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://www.todesk.com/dist/img/d6947e1.svg" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="ToDesk远程桌面软件" />
+              </div>
+              <div class="flink-item-name">ToDesk远程桌面软件</div> 
+              <div class="flink-item-desc" title="免费安全流畅的远程连接电脑手机">免费安全流畅的远程连接电脑手机</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://cn.anlinksoft.com/download/" title="AnLink" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://cn.anlinksoft.com/res/logo/logo.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="AnLink" />
+              </div>
+              <div class="flink-item-name">AnLink</div> 
+              <div class="flink-item-desc" title="在PC上操作手机">在PC上操作手机</div>
+            </a>
+          </div>
           <div class="flink-list-item">
             <a href="https://rufus.ie/zh/" title="Rufus" target="_blank">
               <div class="flink-item-icon">
@@ -3097,12 +3223,39 @@
             </a>
           </div></div><div class="flink-name">开发</div> <div class="flink-list">
           <div class="flink-list-item">
+            <a href="https://git-scm.com/downloads" title="Git" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://git-scm.com/images/logo@2x.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Git" />
+              </div>
+              <div class="flink-item-name">Git</div> 
+              <div class="flink-item-desc" title="a free and open source distributed version control system">a free and open source distributed version control system</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://nodejs.org/zh-cn/download/prebuilt-installer" title="Node.js" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://nodejs.org/static/images/logo-hexagon-card.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Node.js" />
+              </div>
+              <div class="flink-item-name">Node.js</div> 
+              <div class="flink-item-desc" title="在任何地方运行 JavaScript">在任何地方运行 JavaScript</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
             <a href="https://docs.docker.com/desktop/release-notes/" title="Docker" target="_blank">
               <div class="flink-item-icon">
                 <img class="no-lightbox" src="https://docs.docker.com/favicons/docs@2x.ico" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="Docker" />
               </div>
               <div class="flink-item-name">Docker</div> 
               <div class="flink-item-desc" title="开源的应用容器引擎">开源的应用容器引擎</div>
+            </a>
+          </div></div><div class="flink-name">系统</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2" title=".NetFramework 4.7.2" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt=".NetFramework 4.7.2" />
+              </div>
+              <div class="flink-item-name">.NetFramework 4.7.2</div> 
+              <div class="flink-item-desc" title="a highly compatible, in-place update to .NET Framework 4">a highly compatible, in-place update to .NET Framework 4</div>
             </a>
           </div></div></div>]]></content>
       <categories>
