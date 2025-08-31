@@ -3041,24 +3041,6 @@
       </categories>
   </entry>
   <entry>
-    <title>公开课</title>
-    <url>/2024/10/29/%E5%AF%BC%E8%88%AA/%E5%AD%A6%E4%B9%A0/%E5%85%AC%E5%BC%80%E8%AF%BE/</url>
-    <content><![CDATA[<div class="flink"><div class="flink-name">专业</div> <div class="flink-list">
-          <div class="flink-list-item">
-            <a href="https://www.w3cschool.cn/courses?direction=0&tag=0&type=0&condition=1&order=0" title="w3cschool编程狮课程" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://7n.w3cschool.cn/statics/images/logonew2.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="w3cschool编程狮课程" />
-              </div>
-              <div class="flink-item-name">w3cschool编程狮课程</div> 
-              <div class="flink-item-desc" title="后端、人工智能、java、python、php、c、前端、数据库、区块链、运维等，帮助初学者快速入门！">后端、人工智能、java、python、php、c、前端、数据库、区块链、运维等，帮助初学者快速入门！</div>
-            </a>
-          </div></div></div>]]></content>
-      <categories>
-        <category>导航</category>
-        <category>学习</category>
-      </categories>
-  </entry>
-  <entry>
     <title>操作手册</title>
     <url>/2024/10/25/%E5%AF%BC%E8%88%AA/IT/%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/</url>
     <content><![CDATA[<div class="flink"><div class="flink-name">技术教程</div> <div class="flink-list">
@@ -3128,6 +3110,24 @@
       <categories>
         <category>导航</category>
         <category>IT</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>公开课</title>
+    <url>/2024/10/29/%E5%AF%BC%E8%88%AA/%E5%AD%A6%E4%B9%A0/%E5%85%AC%E5%BC%80%E8%AF%BE/</url>
+    <content><![CDATA[<div class="flink"><div class="flink-name">专业</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.w3cschool.cn/courses?direction=0&tag=0&type=0&condition=1&order=0" title="w3cschool编程狮课程" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://7n.w3cschool.cn/statics/images/logonew2.png" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="w3cschool编程狮课程" />
+              </div>
+              <div class="flink-item-name">w3cschool编程狮课程</div> 
+              <div class="flink-item-desc" title="后端、人工智能、java、python、php、c、前端、数据库、区块链、运维等，帮助初学者快速入门！">后端、人工智能、java、python、php、c、前端、数据库、区块链、运维等，帮助初学者快速入门！</div>
+            </a>
+          </div></div></div>]]></content>
+      <categories>
+        <category>导航</category>
+        <category>学习</category>
       </categories>
   </entry>
   <entry>
@@ -6266,6 +6266,114 @@
       </tags>
   </entry>
   <entry>
+    <title>词典</title>
+    <url>/2025/08/31/%E5%AF%BC%E8%88%AA/%E4%BF%A1%E6%81%AF/%E8%AF%8D%E5%85%B8/</url>
+    <content><![CDATA[<div class="flink"><div class="flink-name">中文</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://zd.hwxnet.com/" title="新华字典" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://zd.hwxnet.com/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="新华字典" />
+              </div>
+              <div class="flink-item-name">新华字典</div> 
+              <div class="flink-item-desc" title="汉文学网">汉文学网</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="http://xh.5156edu.com/" title="在线新华字典" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=http://xh.5156edu.com/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="在线新华字典" />
+              </div>
+              <div class="flink-item-name">在线新华字典</div> 
+              <div class="flink-item-desc" title="在线新华字典">在线新华字典</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.vividict.com/Public/index/page/index/index.html" title="象形字典" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.vividict.com/Public/index/page/index/index.html" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="象形字典" />
+              </div>
+              <div class="flink-item-name">象形字典</div> 
+              <div class="flink-item-desc" title="激活象形字 强壮中国心">激活象形字 强壮中国心</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://hanziyuan.net/#%E8%BD%A6" title="字源" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://hanziyuan.net/#%E8%BD%A6" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="字源" />
+              </div>
+              <div class="flink-item-name">字源</div> 
+              <div class="flink-item-desc" title="Chinese Etymology">Chinese Etymology</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://dict.revised.moe.edu.tw/search.jsp" title="教育部《重編國語辭典修訂本》" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://dict.revised.moe.edu.tw/search.jsp" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="教育部《重編國語辭典修訂本》" />
+              </div>
+              <div class="flink-item-name">教育部《重編國語辭典修訂本》</div> 
+              <div class="flink-item-desc" title="《重編國語辭典修訂本》臺灣學術網路第六版">《重編國語辭典修訂本》臺灣學術網路第六版</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://chardb.iis.sinica.edu.tw/" title="國際電腦漢字及異體字知識庫" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://chardb.iis.sinica.edu.tw/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="國際電腦漢字及異體字知識庫" />
+              </div>
+              <div class="flink-item-name">國際電腦漢字及異體字知識庫</div> 
+              <div class="flink-item-desc" title="將每一個漢字在不同電腦編碼下的字形對應出來">將每一個漢字在不同電腦編碼下的字形對應出來</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://humanum.arts.cuhk.edu.hk//Lexis/lexi-mf/radical.php" title="漢語多功能字庫" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://humanum.arts.cuhk.edu.hk//Lexis/lexi-mf/radical.php" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="漢語多功能字庫" />
+              </div>
+              <div class="flink-item-name">漢語多功能字庫</div> 
+              <div class="flink-item-desc" title="漢字部首索引">漢字部首索引</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=TO" title="汉字字频表" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=TO" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="汉字字频表" />
+              </div>
+              <div class="flink-item-name">汉字字频表</div> 
+              <div class="flink-item-desc" title="Chinese character frequency list">Chinese character frequency list</div>
+            </a>
+          </div></div><div class="flink-name">书法</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.9610.com/zidian/" title="书法字典" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.9610.com/zidian/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="书法字典" />
+              </div>
+              <div class="flink-item-name">书法字典</div> 
+              <div class="flink-item-desc" title="书法字体">书法字体</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.shufazidian.com/" title="书法字典" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.shufazidian.com/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="书法字典" />
+              </div>
+              <div class="flink-item-name">书法字典</div> 
+              <div class="flink-item-desc" title="在线书法篆刻学习资料">在线书法篆刻学习资料</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.cidianwang.com/" title="词典网" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.cidianwang.com/" onerror='this.onerror=null;this.src="/img/favicon.jpg"' alt="词典网" />
+              </div>
+              <div class="flink-item-name">词典网</div> 
+              <div class="flink-item-desc" title="词典网">词典网</div>
+            </a>
+          </div></div></div>]]></content>
+      <categories>
+        <category>导航</category>
+        <category>信息</category>
+      </categories>
+  </entry>
+  <entry>
     <title>专题</title>
     <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
@@ -6283,17 +6391,6 @@
 <li><a href="/2022/11/26/%E7%83%AD%E7%82%B9/%E4%BA%8B%E4%BB%B6/%E6%96%B0%E5%86%A0%E6%98%AF%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85/">新冠是免疫系统疾病</a></li>
 <li><a href="/2022/11/27/%E8%B5%84%E6%96%99/%E5%8C%BB%E5%AD%A6/%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87/">新冠后遗症</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>资料</title>
-    <url>/info/index.html</url>
-    <content><![CDATA[<h2 id="历史"><a href="#历史" class="headerlink" title="历史"></a><a href="/categories/%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2/">历史</a></h2><ul>
-<li><a href="/2022/07/24/%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2/%E6%97%A5%E5%86%9B%E6%88%98%E7%8A%AF/">日军战犯</a></li>
-</ul>
-<h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a><a href="/categories/%E8%B5%84%E6%96%99/%E5%8C%BB%E5%AD%A6/">医学</a></h2><ul>
-<li><a href="/2022/11/27/%E8%B5%84%E6%96%99/%E5%8C%BB%E5%AD%A6/%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87/">新冠后遗症</a></li>
-</ul>
 ]]></content>
   </entry>
   <entry>
@@ -6344,6 +6441,17 @@
 <li><a href="/2024/09/16/%E5%AF%BC%E8%88%AA/%E6%96%87%E8%89%BA/%E5%BD%B1%E8%A7%86%E5%A5%96%E9%A1%B9/">影视奖项</a></li>
 <li><a href="/2025/02/28/%E5%AF%BC%E8%88%AA/%E6%96%87%E8%89%BA/%E9%9F%B3%E4%B9%90/">音乐</a></li>
 <li><a href="/2025/02/28/%E5%AF%BC%E8%88%AA/%E6%96%87%E8%89%BA/%E5%AD%97%E5%B9%95/">字幕</a></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>资料</title>
+    <url>/info/index.html</url>
+    <content><![CDATA[<h2 id="历史"><a href="#历史" class="headerlink" title="历史"></a><a href="/categories/%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2/">历史</a></h2><ul>
+<li><a href="/2022/07/24/%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2/%E6%97%A5%E5%86%9B%E6%88%98%E7%8A%AF/">日军战犯</a></li>
+</ul>
+<h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a><a href="/categories/%E8%B5%84%E6%96%99/%E5%8C%BB%E5%AD%A6/">医学</a></h2><ul>
+<li><a href="/2022/11/27/%E8%B5%84%E6%96%99/%E5%8C%BB%E5%AD%A6/%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87/">新冠后遗症</a></li>
 </ul>
 ]]></content>
   </entry>
